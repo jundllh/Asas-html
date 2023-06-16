@@ -1,0 +1,15 @@
+img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+}
+
+#main-photo {
+    width: 400px;
+    height: 300px;
+}
