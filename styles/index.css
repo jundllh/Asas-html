@@ -17,3 +17,7 @@ img {
 h1 {
     color: #6e6e73;
 }
+
+nav {
+    display: block;
+}
